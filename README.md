@@ -24,6 +24,7 @@ Automated regression testing ensures that rapid code commits, deep architecture 
 - [📊 Sector Overview & Market Dynamics](#-sector-overview--market-dynamics)
 - [💼 SaaS & Enterprise Regression Testing Platforms](#-saas--enterprise-regression-testing-platforms)
 - [🔓 Open-Source Test Automation Frameworks](#-open-source-test-automation-frameworks)
+- [🧠 Local AI Regression Agents](#-local-ai-regression-agents)
 - [🎯 Key Evaluation Criteria](#-key-evaluation-criteria)
 - [📈 Star History](#-star-history)
 - [🤝 Contributing](#-contributing)
@@ -70,6 +71,14 @@ Open-source testing frameworks form the foundation of modern automated regressio
 | **[Robot Framework](https://github.com/robotframework/robotframework)** 🤖 | [![Robot Framework Stars](https://img.shields.io/github/stars/robotframework/robotframework?style=social&color=white)](https://github.com/robotframework/robotframework/stargazers) | Python | Generic keyword-driven test automation framework for acceptance testing, acceptance test-driven development (ATDD), and robotic process automation (RPA). |
 | **[TestCafe](https://github.com/DevExpress/testcafe)** ☕ | [![TestCafe Stars](https://img.shields.io/github/stars/DevExpress/testcafe?style=social&color=white)](https://github.com/DevExpress/testcafe/stargazers) | JavaScript, TypeScript | Zero-configuration end-to-end web testing platform that runs without WebDriver or browser plugins directly in the browser environment. |
 | **[WebdriverIO](https://github.com/webdriverio/webdriverio)** 🚀 | [![WebdriverIO Stars](https://img.shields.io/github/stars/webdriverio/webdriverio?style=social&color=white)](https://github.com/webdriverio/webdriverio/stargazers) | JavaScript, TypeScript | Next-generation browser and mobile test automation framework for Node.js built on top of the WebDriver and Chrome DevTools protocols. |
+
+---
+
+## 🧠 Local AI Regression Agents
+
+| Tool | Source / Language | Pricing & License | Regression Workflow |
+|---|---|---|---|
+| **[agent-qa](https://vostride.com)** | [GitHub](https://github.com/vostride/agent-qa) · TypeScript / Node.js 24+ | $0 software for permitted local use under FSL-1.1-ALv2; model and compute/browser/device costs separate | Natural-language web, Android and iOS regression suites with persistent memidex memory, validated self-improvement, and recorded steps/screenshots. CLI, local dashboard and MCP; configured model and test environment required. [Docs](https://vostride.com/docs/agent-qa). |
 
 ---
 
